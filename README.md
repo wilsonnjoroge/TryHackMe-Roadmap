@@ -88,35 +88,35 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |            9                |
-| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            3                |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |            5                |
+| **[Linux Fundamentals](#linux-fundamentals)**    |      4       |                             |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |                             |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |            1                |
-| **[Reconnaissance](#recon)**                     |     10       |            2                |
+| **[Basic Rooms](#basics-rooms)**                 |     14       |                             |
+| **[Reconnaissance](#recon)**                     |     10       |                             |
 | **[Scripting](#scripting)**                      |      7       |                             |
-| **[Networking](#networking)**                    |      7       |            5                |
-| **[Tooling](#tooling)**                          |     18       |            3                |
+| **[Networking](#networking)**                    |      7       |                             |
+| **[Tooling](#tooling)**                          |     18       |                             |
 | **[Container Security](#container-security)**    |     3        |                              |
-| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |            2                |
+| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                             |
 | **[Steganography](#steganography)**              |      6       |                             |
-| **[Web](#web)**                                  |     33       |            5                |
+| **[Web](#web)**                                  |     33       |                             |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
-| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |            1                |
+| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                             |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
-| **[Privilege Escalation](#privesc)**             |     13       |            1               |
-| **[Windows](#windows)**                          |      9       |            1                |
+| **[Privilege Escalation](#privesc)**             |     13       |                            |
+| **[Windows](#windows)**                          |      9       |                             |
 | **[Active Directory](#active-directory)**        |      8       |                             |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |                             |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                             |
-| **[Easy CTF](#easy-ctf)**                        |     98       |            11               |
-| **[Medium CTF](#medium-ctf)**                    |     99       |             4               |
+| **[Easy CTF](#easy-ctf)**                        |     98       |                             |
+| **[Medium CTF](#medium-ctf)**                    |     99       |                             |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                             |
-| **[Insane CTF](#insane-ctf)**                    |      1       |             1               |
+| **[Insane CTF](#insane-ctf)**                    |      1       |                             |
 | **[Misc](#misc)**                                |     43       |                             |
-| **[Special Events](#special-events)**            |     12       |             1               |
-| **Total Rooms:**                                 |    **= 502** |          **= 50**           |
+| **[Special Events](#special-events)**            |     12       |                             |
+| **Total Rooms:**                                 |    **= 502** |          **= 5**            |
 
 ---
 
