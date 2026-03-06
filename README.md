@@ -182,13 +182,13 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
-- [ ] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [x] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
-- [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+- [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 - [ ] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
