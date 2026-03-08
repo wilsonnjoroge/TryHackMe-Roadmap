@@ -311,7 +311,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Networking
 
-- [ ] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [🕵️ TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [🕵️ TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
